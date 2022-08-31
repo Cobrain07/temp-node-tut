@@ -1,0 +1,7 @@
+const num1 = 25
+const num2 = 30
+
+function timeValues () {
+    console.log(`the result is = ${num1*num2}`)
+}
+timeValues()
